@@ -20,7 +20,7 @@ export default function Home() {
     <div className={classes.root}>
       <Paper elevation={3} className={classes.paper}>
           <Typography variant="h3">
-              Home
+            Welcome to the new ProjectBy Gaurav!!
           </Typography>
           <br />
       </Paper>
